@@ -1,0 +1,34 @@
+#back {
+    background-color: aqua;
+}
+
+#back h1{
+    font-family: 'Fondamento', cursive;
+    color: black;
+}
+
+#a
+{
+
+	color:black;
+	font-color:white;
+	font-size:4rem;
+	font-style:bold;
+	font-family:cursive;
+
+	a:link {
+    color: red;
+	}
+
+	a:visited {
+    color: green;
+	}
+
+	a:hover {
+    color: hotpink;
+	}
+
+	a:active {
+    color: blue;
+	}
+}
