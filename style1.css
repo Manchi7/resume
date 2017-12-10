@@ -68,16 +68,54 @@
 }
 
 #an1 h1{
-	font-family: 'Fondamento', cursive;
+	font-family: 'Itim', cursive;
     color: black;
 }
 
 #an1 h2{
-	font-family: 'Fondamento', cursive;
+	font-family: 'Itim', cursive;
     color: black;
 }
 
 #an1 h3{
-	font-family: 'Fondamento', cursive;
+	font-family: 'Itim', cursive;
     color: black;
+}
+
+#an2
+{
+	background-color:hsl(39, 100%, 50%);
+}
+
+#an2 h1{
+	font-family: 'Itim', cursive;
+    color: black;
+	font-size: 50px;
+}
+#an2 h2{
+	font-family: 'Itim', cursive;
+    color: black;
+	font-size: 40px;
+}
+
+#a{
+	
+	color: white;
+
+}
+
+#bc p
+{
+	font-family: 'Itim', cursive;
+}
+
+#d
+{
+	font-family: 'Merienda One', cursive;
+	background-color: black;
+	color: white;
+}
+#e
+{
+	
 }
