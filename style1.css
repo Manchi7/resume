@@ -64,13 +64,12 @@
 #an1
 {
 	background-color:MediumSeaGreen;
-	
 }
-
 #an1 h1{
 	font-family: 'Itim', cursive;
     color: black;
 }
+
 
 #an1 h2{
 	font-family: 'Itim', cursive;
@@ -113,9 +112,21 @@
 {
 	font-family: 'Merienda One', cursive;
 	background-color: black;
-	color: white;
-}
-#e
-{
 	
+}
+#dc
+{
+	background-color: DodgerBlue;
+}
+#dc h2{
+	font-family: 'Merienda One', cursive;
+	font-family: 'Courgette', cursive;
+    color: white;
+	font-size: 40px;
+}
+#dc h1{
+	font-family: 'Merienda One', cursive;
+	font-family: 'Courgette', cursive;
+    color: white;
+	font-size: 40px;
 }
